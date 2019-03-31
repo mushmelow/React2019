@@ -1,0 +1,3 @@
+export const GET_TWEETS_USER1 = 'GET_TWEETS_USER1';
+export const GET_TWEETS_USER2 = 'GET_TWEETS_USER2';
+
